@@ -1,0 +1,133 @@
+.dingbu{
+    width: 100%;
+    height: 85px;
+    padding:0 40px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+.dingbu .tu{
+    width: 97px;
+    height: 42px;
+    margin-top: 19px;
+
+}
+.dingbu .tu img{
+    width: 97px;
+    height: 42px;
+}
+.dingbu .you{
+    width: 600px;
+    height: 28px;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-around;
+}
+.dingbu .you a {
+    font-size: 20px;
+    color: black;
+}
+.dingbu .you .zixia{
+    border-bottom: 0.1px solid black;
+}
+
+.xiaxia{
+    width: 100%;
+    height: 250px;
+    margin: 0 auto;
+    background-image: url("../image/qun.jpg");
+    background-size: cover;
+    background-position: -10px -400px;
+}
+.di{
+    width: 100%;
+    height: 298px;
+    overflow: hidden;
+}
+.di .zhi{
+    width: 1200px;
+    height: 278px;
+    margin: 15px auto 0;
+    padding: 0 40px;
+}
+.di .zhi .left1{
+    width: 286px;
+    height: 278px;
+    float: left;
+}
+.di .zhi .right2{
+    width: 884px;
+    height: 251px;
+    float: right;
+}
+.di .zhi .left1 .left111{
+    width: 286px;
+    height: 32px;
+    margin-bottom: 3px;
+    color: rgb(136, 136, 136);
+    font-size: 13px;
+    line-height: 32px;
+}
+.di .zhi .left1 .diyihang {
+    color: #696969;
+    font-size: 16px;
+}
+.di .zhi .left1 .tutu1{
+    width: 32px;
+    height: 32px;
+    float: left;
+    margin-right: 3px;
+}
+.di .zhi .left1 .tutu1 img{
+    width: 100%;
+    height: 100%;
+}
+.di .zhi .right2 .right11{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+}
+.di .zhi .right2 .right11 .in{
+    width: 434px;
+    height: 35px;
+    float: left;
+    margin-right:16px
+}
+.di .zhi .right2 .right11 .in:last-child{
+    margin-right: 0;
+}
+.di .zhi .right2 .right11 .in input{
+    width: 434px;
+    height: 35px;
+    background: #eeecec;
+}
+.di .zhi .right2 .right22{
+    width: 100%;
+    height: 63px;
+    background: blue;
+    margin-bottom: 20px;
+}
+.di .zhi .right2 .right22 input{
+    width: 100%;
+    height: 63px;
+    background: #eeecec;
+}
+.di .zhi .right2 .right33{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 50px;
+}
+.di .zhi .right2 .right33 .anniu{
+    width: 110px;
+    height: 30px;
+    background: black;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    font-size: 20px;
+}
+.di .zhi .right2 .right44{
+    width: 100%;
+    height: 25px;
+    color: #888383;
+}
